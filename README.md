@@ -26,10 +26,11 @@ Este projeto é uma aplicação console desenvolvida em C# que calcula a idade d
 
 ### Como Executar
 
-1. Clone o repositório
-2. Abra o arquivo `CalculadorIdade.sln` no Visual Studio
-3. Execute o projeto (F5 ou Ctrl+F5)
-4. Siga as instruções na tela para inserir a data de nascimento
+1. Baixe o Zip do repositório e extraia seu conteúdo
+2. No Visual Studio vá em Abrir Projeto ou Solução
+3. Selecione o arquivo CalculadorIdade.csproj
+4. Selecione o arquivo Program.cs e execute o projeto (F5 ou Ctrl+F5)
+5. Siga as instruções na tela para inserir a data de nascimento
 
 ### Estrutura do Projeto
 
